@@ -19,6 +19,8 @@ const Post = require('../models/Post');
 //     }
 
 // });
+
+
 router.get('',async (req,res)=>{
     
     
